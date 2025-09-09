@@ -37,7 +37,7 @@
 - ![University Badge](https://img.shields.io/badge/Ain_Shams_University-0055A4?style=flat&logo=university&logoColor=white)  
 - ![University Badge](https://img.shields.io/badge/University_of_East_London-002147?style=flat&logo=university&logoColor=white)  
 - ![Duration Badge](https://img.shields.io/badge/Duration-2023%20–%202027-yellow)  
-- ![GPA Badge](https://img.shields.io/badge/GPA-2.71-brightgreen)  
+   
 
 ##### 📚 Additional Courses:
 - Deep Learning Image Segmentation – Nvidia  
