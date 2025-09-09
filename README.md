@@ -10,8 +10,7 @@
 
 ---
 
-### 👩‍💻 About Me:
-- 📋 **Resume**: [Check out my Resume here](#)  
+### 👩‍💻 About Me: 
 - 💬 **Ask me about**: Computer Vision, NLP, ML, Deep Learning, Cybersecurity, Full-Stack Development  
 - 📫 **Reach me at**: [Paulahanna700@gmail.com](mailto:Paulahanna700@gmail.com)   
   
